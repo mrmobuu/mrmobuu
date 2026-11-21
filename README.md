@@ -23,4 +23,4 @@ I build products end to end, from the first design decision to the thing people 
 
 ### Elsewhere
 
-[mrmobu.me](https://www.mrmobu.me) · [LinkedIn](https://www.linkedin.com/in/adamya-agrawal-555530190/) · [LeetCode](https://leetcode.com/u/mrmobuu/) · [adamyabansal@gmail.com](mailto:adamyabansal@gmail.com)
+[mrmobu.me](https://www.mrmobu.me) · [LinkedIn](https://www.linkedin.com/in/adamya-agrawal-555530190/) · [X](https://x.com/MrM0bu) · [LeetCode](https://leetcode.com/u/mrmobuu/) · [adamyabansal@gmail.com](mailto:adamyabansal@gmail.com)
